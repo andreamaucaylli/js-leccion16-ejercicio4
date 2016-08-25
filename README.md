@@ -22,3 +22,5 @@ Pseudocódigo para el calculo del costo de una llamada telefónica mediante Java
 6. Multiplicar tiempo y costo por minuto.
 7. Imprimir resultado.
 8. FIN
+
+![alt](http://i63.tinypic.com/ir3omf.jpg)
